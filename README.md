@@ -1,3 +1,11 @@
 # demo
 
 I added a line. Yes I did.
+
+## Introduction
+
+This is a demo repository
+
+## Usage
+
+This is a practice repository for Git and Github.
