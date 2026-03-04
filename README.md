@@ -16,5 +16,5 @@ This is **bold**
 This is _italic_.
 
 ```python
-print("Hello World)
+print("Hello World")
 ```
