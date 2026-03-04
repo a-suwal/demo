@@ -13,6 +13,8 @@ This is a practice repository for Git and Github.
 
 This is **bold**
 
-This is 
+This is _italic_.
 
-[www.google.com](www.google.com)
+```python
+print("Hello World)
+```
