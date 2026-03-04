@@ -9,3 +9,10 @@ This is a demo repository
 ## Usage
 
 This is a practice repository for Git and Github.
+
+
+This is **bold**
+
+This is 
+
+[www.google.com](www.google.com)
